@@ -1,0 +1,3 @@
+ng g c test1
+ng g c test2 -flat //// sin html y dirrectamente sin html sin template 
+emmet 
